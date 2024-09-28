@@ -73,7 +73,7 @@ GitHub repository: https://github.com/noman1811048/djangoAssignment.git
 1. Clone the repository:
    ```
    git clone https://github.com/noman62/OllamaRewriter
-   cd django-ollama-rewriter
+   cd OllamaRewriter
    ```
 
 2. Create and activate a virtual environment:
