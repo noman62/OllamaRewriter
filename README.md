@@ -38,7 +38,7 @@ This Django CLI application is designed to rewrite property information stored i
 
 ```
 root/
-├── django-ollama-rewriter/
+├── OllamaRewriter/
 │   ├── cliApplication/
 │   │   ├── __init__.py
 │   │   ├── asgi.py
