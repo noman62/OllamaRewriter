@@ -1,4 +1,4 @@
-# Django Ollama Property Rewriter
+# OllamaRewriter
 
 A Django CLI application that rewrites property information using Ollama, an open-source large language model.
 
@@ -72,7 +72,7 @@ GitHub repository: https://github.com/noman1811048/djangoAssignment.git
 
 1. Clone the repository:
    ```
-   git clone https://github.com/noman1811048/django-ollama-rewriter.git
+   git clone https://github.com/noman62/OllamaRewriter
    cd django-ollama-rewriter
    ```
 
